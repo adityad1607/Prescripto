@@ -10,6 +10,7 @@ const Footer = () => {
           <img className="mb-5 w-40" src={assets.logo} alt="" />
           <p className="w-full md:w-2/3 text-gray-600 leading-6">
             Healthcare fascilities for IIIT-Allahabad.
+            To ensure a healthy environment.
           </p>
         </div>
 
